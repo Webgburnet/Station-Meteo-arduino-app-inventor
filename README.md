@@ -2,4 +2,4 @@
 
 Projet d'une station meteo pour exploitation viticol
 
-![](Cablage/Cablage.png)
+![](Cablage/Cablage_Station.png)
